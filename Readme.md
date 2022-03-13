@@ -14,4 +14,5 @@ Density Representation
 ![Density Representation](/assets/screenshots/2.png)
 
 Line Representation
+
 ![Line Representation](/assets/screenshots/3.png)
