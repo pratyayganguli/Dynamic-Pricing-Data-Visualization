@@ -5,6 +5,10 @@ Annual Data Representation
 
 ![Annual Data Representation](/assets/screenshots/0.png)
 
+Monthly Data Representation
+
+![Monthly Data Representation](/assets/screenshots/4.png)
+
 Bar Representation
 
 ![Bar Representation](/assets/screenshots/1.png)
