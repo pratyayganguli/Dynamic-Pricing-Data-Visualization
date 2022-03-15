@@ -20,3 +20,7 @@ Density Representation
 Line Representation
 
 ![Line Representation](/assets/screenshots/3.png)
+
+Scatter Representation
+
+![Scatter Representation](/assets/screenshots/5.png)
