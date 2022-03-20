@@ -24,3 +24,15 @@ Line Representation
 Scatter Representation
 
 ![Scatter Representation](/assets/screenshots/5.png)
+
+Linear Regression Demo
+
+**Sample Datasets :**
+
+![datasets](/assets/screenshots/6.png)
+
+**Monthly Inflation Model**
+
+![scatter plot](/assets/screenshots/7.png)
+
+
